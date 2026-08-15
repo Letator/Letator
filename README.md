@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Andrii Ohiichenko 👋
+
+QA Engineer focused on manual testing of web and mobile applications.
+
+Currently building my QA portfolio and improving my skills in API testing, SQL and test automation.
+
 
 <!--
 **Letator/Letator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
